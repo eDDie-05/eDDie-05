@@ -11,8 +11,8 @@
 🚀 Building projects, learning new technologies, and solving real-world problems.  
 🌱 Always learning. Always building.
 
-🔭 &nbsp;I'm currently working on **🔭 Currently working on: A security dashboard web application and exploring full-stack development.**  
-🌱 &nbsp;I'm currently learning **Java**  
+🔭 &nbsp;I'm currently working on **🔭: A security dashboard web application and exploring full-stack development.**  
+🌱 &nbsp;I'm currently learning **Java & Springboot**  
 👯 &nbsp;I'm looking to collaborate on **Open-source projects, web applications, and innovative software solutions**  
 🤔 &nbsp;I'm looking for help with **Improving my full-stack development skills, learning new technologies, and building better software projects.**  
 💬 &nbsp;Ask me about **Web development, databases, programming, and the projects I’m currently building.**  
