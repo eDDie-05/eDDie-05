@@ -1,6 +1,6 @@
 <!-- Animated profile header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&height=210&color=0:0F172A,50:1D4ED8,100:06B6D4&text=eDDie%20%7C%20Full-Stack%20Developer&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Building%20useful%20software%20one%20project%20at%20a%20time&descAlignY=58&descSize=15" alt="Animated profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&height=210&color=0:0F172A,50:1D4ED8,100:06B6D4&text=eDDie&fontColor=FFFFFF&fontSize=38&fontAlignY=50" alt="Animated profile banner" />
 </p>
 
 <p align="center">
