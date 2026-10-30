@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio.edynamite05.workers.dev/"><img src="https://img.shields.io/badge/Visit-My%20Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit my portfolio website" /></a>
   <a href="https://github.com/eDDie-05?tab=followers"><img src="https://img.shields.io/github/followers/eDDie-05?label=Followers&style=for-the-badge&logo=github&color=0F172A" alt="GitHub followers" /></a>
   <a href="https://github.com/eDDie-05?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-0891B2?style=for-the-badge&logo=github" alt="Explore projects" /></a>
   <img src="https://komarev.com/ghpvc/?username=eDDie-05&style=for-the-badge&color=1D4ED8" alt="Profile views" />
