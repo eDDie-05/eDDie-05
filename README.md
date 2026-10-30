@@ -148,7 +148,7 @@ I'm **eDDie**, a developer from **Tanzania** focused on building practical, user
 </p>
 
 <p align="center">
-  <strong>⚡ CONTRIBUTION ACTIVITY</strong>
+  <img src="https://img.shields.io/badge/⚡_ACTIVITY-GITHUB_CONTRIBUTIONS-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=075985" alt="GitHub contribution activity indicator" />
 </p>
 
 <p align="center">
@@ -156,7 +156,7 @@ I'm **eDDie**, a developer from **Tanzania** focused on building practical, user
 </p>
 
 <p align="center">
-  <strong>⏱️ CODING TIME</strong>
+  <img src="https://img.shields.io/badge/⏱️_TRACKING-CODING_TIME-0D1117?style=for-the-badge&logo=clockify&logoColor=22D3EE&labelColor=075985" alt="Coding time tracking indicator" />
 </p>
 
 <p align="center">
