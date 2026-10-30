@@ -119,13 +119,19 @@ I'm **eDDie**, a developer from **Tanzania** focused on building practical, user
 </p>
 
 <p align="center">
-  <strong>📈 Profile overview</strong>
+  <strong>📈 PROFILE OVERVIEW</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/eDDie-05?label=FOLLOWERS&logo=github&style=for-the-badge&color=0D1117&labelColor=1D4ED8" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/eDDie-05?label=TOTAL%20STARS&logo=github&style=for-the-badge&color=0D1117&labelColor=0891B2" alt="Total GitHub stars" />
+  <img src="https://img.shields.io/badge/PROFILE-FULL%20STACK-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=6D28D9" alt="Full-stack developer profile" />
 </p>
 
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=eDDie-05&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub statistics" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=eDDie-05&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub statistics" />
     </td>
     <td width="50%" align="center">
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eDDie-05&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used programming languages" />
@@ -134,7 +140,7 @@ I'm **eDDie**, a developer from **Tanzania** focused on building practical, user
 </table>
 
 <p align="center">
-  <strong>🔥 Contribution streak</strong>
+  <strong>🔥 CONTRIBUTION STREAK</strong>
 </p>
 
 <p align="center">
@@ -142,7 +148,7 @@ I'm **eDDie**, a developer from **Tanzania** focused on building practical, user
 </p>
 
 <p align="center">
-  <strong>⚡ Contribution activity</strong>
+  <strong>⚡ CONTRIBUTION ACTIVITY</strong>
 </p>
 
 <p align="center">
@@ -150,7 +156,7 @@ I'm **eDDie**, a developer from **Tanzania** focused on building practical, user
 </p>
 
 <p align="center">
-  <strong>⏱️ Coding time</strong>
+  <strong>⏱️ CODING TIME</strong>
 </p>
 
 <p align="center">
