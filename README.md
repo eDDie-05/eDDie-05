@@ -1,14 +1,12 @@
 [![CI](https://github.com/eDDie-05/eDDie-05/actions/workflows/blank.yml/badge.svg)](https://github.com/eDDie-05/eDDie-05/actions/workflows/blank.yml)
 <p align="center">
   <a href="https://github.com/eDDie-05">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hi!👋" alt="Hello! I&#39;m" />
   </a>
 </p>
 
-### 🚀 About Me
-
-👋 Hi, I’m Eddie!  
-💻 Software Developer | Web Development &amp; Databases  
+👋  I’m eDDie!  
+💻 Software Developer | Full Stack Dev  
 🚀 Building projects, learning new technologies, and solving real-world problems.  
 🌱 Always learning. Always building.
 
@@ -16,7 +14,7 @@
 🌱 &nbsp;I'm currently learning **Java & Springboot**  
 👯 &nbsp;I'm looking to collaborate on **Open-source projects, web applications, and innovative software solutions**  
 🤔 &nbsp;I'm looking for help with **Improving my full-stack development skills, learning new technologies, and building better software projects.**  
-💬 &nbsp;Ask me about **Web development, databases, programming, and the projects I’m currently building.**  
+💬 &nbsp;Ask me about **Anything and the projects I’m currently building.**  
 😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **once debugged from mountaintop**
 
