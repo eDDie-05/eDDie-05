@@ -112,30 +112,54 @@ I'm **eDDie**, a developer from **Tanzania** focused on building practical, user
 
 **More builds:** [Browse all my repositories](https://github.com/eDDie-05?tab=repositories).
 
-## 📊 Live GitHub dashboard
+## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eDDie-05&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub achievement trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=eDDie-05&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub achievement trophies" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eDDie-05&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eDDie-05&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <strong>📈 Profile overview</strong>
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=eDDie-05&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub statistics" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eDDie-05&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used programming languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <strong>🔥 Contribution streak</strong>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eDDie-05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="72%" src="https://streak-stats.demolab.com?user=eDDie-05&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eDDie-05&theme=tokyo-night&hide_border=true&area=true&custom_title=Live%20Contribution%20Activity" alt="GitHub contribution activity graph" />
+  <strong>⚡ Contribution activity</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eDDie-05&layout=compact&theme=tokyonight&hide_border=true" alt="Coding time statistics, when WakaTime is connected" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eDDie-05&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=38BDF8&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 </p>
 
-<sub>These charts are generated from GitHub activity and repository data. The coding-time panel only displays meaningful data if a WakaTime account is connected and configured; it may otherwise be empty.</sub>
+<p align="center">
+  <strong>⏱️ Coding time</strong>
+</p>
+
+<p align="center">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eDDie-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Coding time statistics (requires WakaTime setup)" />
+</p>
+
+<p align="center">
+  <sub>Live cards update from GitHub activity. Coding-time statistics require a configured WakaTime account; without it, that panel may be empty.</sub>
+</p>
 
 ## 🌐 Connect with me
 
