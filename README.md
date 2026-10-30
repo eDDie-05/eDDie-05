@@ -29,7 +29,18 @@ Here are a few public projects from my GitHub. They range from learning projects
 | [Student Management System](https://github.com/eDDie-05/Student-Management-System-stms-) | Menu-driven program for adding, viewing, searching, and deleting student records. | C |
 | [Library Management System](https://github.com/eDDie-05/Libms) | Console application for managing books and issue/return status. | C |
 | [Text-to-Speech Converter](https://github.com/eDDie-05/Converter) | Python command-line tool that turns text into spoken audio. | Python, gTTS |
-| [Personal Portfolio](https://github.com/eDDie-05/Web1) | Static portfolio website with profile and project sections. | HTML, CSS |
+| [Personal Portfolio](https://github.com/eDDie-05/Portfolio) | Multi-page portfolio with project details, responsive layouts, and theme switching. | HTML, CSS, JavaScript |
+
+## 🧪 More projects
+
+- [Tanzania Land Registration Database](https://github.com/eDDie-05/Land-Management-system-DB) — PostgreSQL database project covering landowners, parcels, applications, titles, transfers and reports. Check the repository for the current SQL deliverables.
+- [Stock Market Tracker](https://github.com/eDDie-05/Stock-Market-Tracker) — Python desktop stock lookup using Tkinter and yfinance; an educational information tool, not a trading platform.
+- [Movie Mania](https://github.com/eDDie-05/movie-database-app) — React/Vite movie and TV discovery interface.
+- [Open-World Map Simulation](https://github.com/eDDie-05/Gta-V-map-system) — Python/Pygame and C++/SDL2 map-simulation prototypes.
+- [Flappy Bird](https://github.com/eDDie-05/birds), [Tetris](https://github.com/eDDie-05/Tetris), [Snake](https://github.com/eDDie-05/snake), [Breakout](https://github.com/eDDie-05/Breakout), [2048](https://github.com/eDDie-05/2048), and [Minesweeper](https://github.com/eDDie-05/Minesweeper) — small Python game projects.
+- [Desktop Rule-Based Chatbot](https://github.com/eDDie-05/AI-Chatbot) — a Tkinter chatbot using predefined phrase matching.
+
+These are learning projects and prototypes at different stages of development. Please check each repository's README for its actual scope and setup instructions.
 
 ## 🧰 Technologies
 
