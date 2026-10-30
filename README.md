@@ -25,9 +25,9 @@
 
 ## 👋 About me
 
-I'm **eDDie**, a developer from **Tanzania** focused on building practical, user-friendly software. I enjoy working across the frontend and backend, learning new tools, and turning ideas into working projects.
+I'm **eDDie**, a  full stack developer from **Tanzania** focused on building practical, user-friendly software. I enjoy working across the frontend and backend, learning new tools, and turning ideas into working projects.
 
-- 💻 **Focus:** Full-stack web development and software engineering
+- 💻 **Focus:** Full-stack  development and software engineering
 - 🔭 **Building:** Web applications, database-backed systems, and useful developer tools
 - 🌱 **Currently growing:** Django, Java, Spring Boot, APIs, and modern frontend development
 - 🧠 **Interested in:** Clean code, databases, UI/UX, automation, and open source
