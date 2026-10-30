@@ -160,11 +160,13 @@ I'm **eDDie**, a developer from **Tanzania** focused on building practical, user
 </p>
 
 <p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eDDie-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Coding time statistics (requires WakaTime setup)" />
+  <a href="https://wakatime.com/">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eDDie-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&custom_title=Weekly%20Coding%20Activity" alt="Weekly coding time and language statistics from WakaTime" />
+  </a>
 </p>
 
 <p align="center">
-  <sub>Live cards update from GitHub activity. Coding-time statistics require a configured WakaTime account; without it, that panel may be empty.</sub>
+  <sub>Contribution graph: automatically reflects public GitHub contribution activity. Coding-time card: displays real editor activity only after you create a WakaTime account, install its editor extension, record coding activity, and use your exact WakaTime username in the image URL. Never publish your WakaTime API key in this README.</sub>
 </p>
 
 ## 🌐 Connect with me
