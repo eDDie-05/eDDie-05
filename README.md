@@ -80,6 +80,19 @@
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=eDDie-05&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+### 🏆 GitHub Achievement Goals
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Quickdraw-goal-2ea043?style=for-the-badge&logo=github" alt="Quickdraw goal" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-goal-2ea043?style=for-the-badge&logo=github" alt="Pull Shark goal" />
+  <img src="https://img.shields.io/badge/YOLO-goal-2ea043?style=for-the-badge&logo=github" alt="YOLO goal" />
+  <img src="https://img.shields.io/badge/Galaxy%20Brain-goal-2ea043?style=for-the-badge&logo=github" alt="Galaxy Brain goal" />
+  <img src="https://img.shields.io/badge/Starstruck-goal-2ea043?style=for-the-badge&logo=github" alt="Starstruck goal" />
+  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-goal-2ea043?style=for-the-badge&logo=github" alt="Pair Extraordinaire goal" />
+</p>
+
+<p align="center"><sub>Personal goals only — these are custom README badges, not official GitHub achievements.</sub></p>
+
 ### 💭 Dev Quote
 
 <p align="center">
