@@ -1,6 +1,6 @@
 <!-- Animated profile header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:1D4ED8,100:06B6D4&text=eDDie%20%7C%20Full-Stack%20Developer&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Building%20useful%20software%20one%20project%20at%20a%20time&descAlignY=58&descSize=15" alt="Animated profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&height=210&color=0:0F172A,50:1D4ED8,100:06B6D4&text=eDDie%20%7C%20Full-Stack%20Developer&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Building%20useful%20software%20one%20project%20at%20a%20time&descAlignY=58&descSize=15" alt="Animated profile banner" />
 </p>
 
 <p align="center">
@@ -13,6 +13,14 @@
   <a href="https://github.com/eDDie-05?tab=followers"><img src="https://img.shields.io/github/followers/eDDie-05?label=Followers&style=for-the-badge&logo=github&color=0F172A" alt="GitHub followers" /></a>
   <a href="https://github.com/eDDie-05?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-0891B2?style=for-the-badge&logo=github" alt="Explore projects" /></a>
   <img src="https://komarev.com/ghpvc/?username=eDDie-05&style=for-the-badge&color=1D4ED8" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,postgres,git,github,docker,linux,vscode&perline=6" alt="Animated-style technology icon showcase" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=%3E+Building+the+future+one+commit+at+a+time...;%3E+Designing+clean+interfaces+and+useful+systems...;%3E+Learning.+Shipping.+Improving." alt="Animated developer status lines" />
 </p>
 
 ## 👋 About me
@@ -104,7 +112,11 @@ I'm **eDDie**, a developer from **Tanzania** focused on building practical, user
 
 **More builds:** [Browse all my repositories](https://github.com/eDDie-05?tab=repositories).
 
-## 📊 GitHub dashboard
+## 📊 Live GitHub dashboard
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eDDie-05&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub achievement trophies" />
+</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=eDDie-05&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
@@ -116,8 +128,14 @@ I'm **eDDie**, a developer from **Tanzania** focused on building practical, user
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eDDie-05&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eDDie-05&theme=tokyo-night&hide_border=true&area=true&custom_title=Live%20Contribution%20Activity" alt="GitHub contribution activity graph" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eDDie-05&layout=compact&theme=tokyonight&hide_border=true" alt="Coding time statistics, when WakaTime is connected" />
+</p>
+
+<sub>These charts are generated from GitHub activity and repository data. The coding-time panel only displays meaningful data if a WakaTime account is connected and configured; it may otherwise be empty.</sub>
 
 ## 🌐 Connect with me
 
