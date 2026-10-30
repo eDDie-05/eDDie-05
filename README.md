@@ -33,7 +33,7 @@ Here are a few public projects from my GitHub. They range from learning projects
 
 ## 🧪 More projects
 
-- [Tanzania Land Registration Database](https://github.com/eDDie-05/Land-Management-system-DB) — PostgreSQL database project covering landowners, parcels, applications, titles, transfers and reports. Check the repository for the current SQL deliverables.
+- [Tanzania Land Registration Database](https://github.com/eDDie-05/Land-Management-system-DB) — database-project scaffold outlining landowners, parcels, applications, titles, transfers and reports. The SQL deliverables still need a completeness check.
 - [Stock Market Tracker](https://github.com/eDDie-05/Stock-Market-Tracker) — Python desktop stock lookup using Tkinter and yfinance; an educational information tool, not a trading platform.
 - [Movie Mania](https://github.com/eDDie-05/movie-database-app) — React/Vite movie and TV discovery interface.
 - [Open-World Map Simulation](https://github.com/eDDie-05/Gta-V-map-system) — Python/Pygame and C++/SDL2 map-simulation prototypes.
