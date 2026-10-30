@@ -39,7 +39,10 @@ def api(method, url, token, payload=None):
             body = r.read()
             return r.status, json.loads(body) if body else {}
     except urllib.error.HTTPError as e:
-        raise RuntimeError("GitHub API " + str(e.code) + ": " + e.read().decode()) from e
+        body = e.read().decode()
+        if e.code == 404:
+            return 404, {}
+        raise RuntimeError("GitHub API " + str(e.code) + ": " + body) from e
 
 def main():
     today = date.today()
