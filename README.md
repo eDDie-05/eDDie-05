@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.edynamite05.workers.dev/"><img src="https://img.shields.io/badge/Visit-My%20Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit my portfolio website" /></a>
   <a href="https://github.com/eDDie-05?tab=followers"><img src="https://img.shields.io/github/followers/eDDie-05?label=Followers&style=for-the-badge&logo=github&color=0F172A" alt="GitHub followers" /></a>
   <a href="https://github.com/eDDie-05?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-0891B2?style=for-the-badge&logo=github" alt="Explore projects" /></a>
   <img src="https://komarev.com/ghpvc/?username=eDDie-05&style=for-the-badge&color=1D4ED8" alt="Profile views" />
@@ -98,7 +97,7 @@ I'm **eDDie**, a  full stack developer from **Tanzania** focused on building pra
 
 <sub>Tech badges represent tools used in projects or currently being explored; experience varies by technology.</sub>
 
-## 🚀 Featured projects
+## 🚀 Featured software projects
 
 | Project | Description | Technologies |
 | --- | --- | --- |
@@ -106,7 +105,6 @@ I'm **eDDie**, a  full stack developer from **Tanzania** focused on building pra
 | [Student Management System](https://github.com/eDDie-05/Student-Management-System-stms-) | Menu-driven application for managing student records. | C |
 | [Library Management System](https://github.com/eDDie-05/Libms) | Console application for books and issue/return status. | C |
 | [Text-to-Speech Converter](https://github.com/eDDie-05/Converter) | Python tool that converts text into spoken audio. | Python, gTTS |
-| [Personal Portfolio](https://github.com/eDDie-05/Portfolio) | Multi-page portfolio with responsive layouts and theme switching. | HTML, CSS, JavaScript |
 | [Movie Mania](https://github.com/eDDie-05/movie-database-app) | Movie and TV discovery interface. | React, Vite |
 | [Stock Market Tracker](https://github.com/eDDie-05/Stock-Market-Tracker) | Desktop stock lookup and information tool. | Python, Tkinter |
 | [Desktop Chatbot](https://github.com/eDDie-05/AI-Chatbot) | Rule-based desktop chatbot. | Python, Tkinter |
@@ -175,7 +173,6 @@ I'm **eDDie**, a  full stack developer from **Tanzania** focused on building pra
 <p>
   <a href="https://tz.linkedin.com/in/eddie-edw-89a34131a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/am__eDDie"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://portfolio-11ky.onrender.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/eDDie-05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
