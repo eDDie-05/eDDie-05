@@ -18,25 +18,23 @@
 ## ✨ Profile Highlights & Achievements
 
 <p align="center">
-  <a href="https://github.com/eDDie-05?tab=repositories"><img src="https://img.shields.io/badge/PORTFOLIO-Featured%20Projects-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Featured project portfolio" /></a>
-  <a href="https://roadmap.sh/roadmaps"><img src="https://img.shields.io/badge/ROADMAPS-Full--Stack%20%2B%20ML-047857?style=for-the-badge&logo=roadmap.sh&logoColor=white" alt="Full Stack and Machine Learning roadmaps" /></a>
-  <a href="https://github.com/eDDie-05?tab=repositories"><img src="https://img.shields.io/badge/ENGINEERING-AI%20%26%20ML-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="AI and machine learning focus" /></a>
-  <a href="https://github.com/eDDie-05?tab=repositories"><img src="https://img.shields.io/badge/ENGINEERING-Full--Stack-166534?style=for-the-badge&logo=react&logoColor=white" alt="Full-stack engineering focus" /></a>
-</p>
-
-### GitHub achievement trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eDDie-05&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub achievement trophies generated from public activity" width="100%" />
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/profile-highlights.svg" alt="Animated emerald profile highlights: full-stack engineering, AI and machine learning, project building, and open source" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/eDDie-05?label=GITHUB%20FOLLOWERS&style=for-the-badge&logo=github&color=065F46" alt="Live GitHub follower count" />
-  <img src="https://img.shields.io/github/repo-count/eDDie-05?label=PUBLIC%20REPOSITORIES&style=for-the-badge&logo=github&color=047857" alt="Live public repository count" />
-  <img src="https://img.shields.io/badge/PROFILE-OPEN%20SOURCE%20PORTFOLIO-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="Open source portfolio profile" />
+  <a href="https://github.com/eDDie-05?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Browse%20Repositories-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Browse project repositories" /></a>
+  <a href="https://roadmap.sh/roadmaps"><img src="https://img.shields.io/badge/ROADMAPS-Full--Stack%20%2B%20ML-047857?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack and Machine Learning roadmaps" /></a>
+  <a href="https://github.com/eDDie-05"><img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="AI and machine learning focus" /></a>
+  <a href="https://github.com/eDDie-05"><img src="https://img.shields.io/badge/FOCUS-FULL--STACK-166534?style=for-the-badge&logo=react&logoColor=white" alt="Full-stack engineering focus" /></a>
 </p>
 
-<sub>Achievement trophies and numeric badges are generated from public GitHub activity and update as your profile grows. They are not manually claimed certifications.</sub>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/eDDie-05?label=FOLLOWERS&style=for-the-badge&logo=github&color=065F46" alt="Live GitHub follower count" />
+  <img src="https://img.shields.io/github/stars/eDDie-05?label=STARS&style=for-the-badge&logo=github&color=047857" alt="Live GitHub star count" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="Actively building projects" />
+</p>
+
+<sub>These are profile highlights and live public GitHub metrics, not claimed certifications or manually awarded GitHub achievements.</sub>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,postgres,git,github,docker,linux,vscode&perline=6" alt="Animated-style technology icon showcase" />
