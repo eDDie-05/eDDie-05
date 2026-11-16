@@ -15,6 +15,20 @@
   <img src="https://komarev.com/ghpvc/?username=eDDie-05&style=for-the-badge&color=065F46" alt="Profile views" />
 </p>
 
+## 🏆 Developer Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eDDie-05&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="Live GitHub achievement trophies" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/eDDie-05?label=GITHUB%20FOLLOWERS&style=for-the-badge&logo=github&color=065F46" alt="Live GitHub follower count" />
+  <img src="https://img.shields.io/github/repo-count/eDDie-05?label=PUBLIC%20REPOSITORIES&style=for-the-badge&logo=github&color=047857" alt="Live public repository count" />
+  <img src="https://img.shields.io/badge/PROFILE-OPEN%20SOURCE%20PORTFOLIO-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="Open source portfolio profile" />
+</p>
+
+<sub>Achievement trophies and numeric badges are generated from public GitHub activity and update as your profile grows. They are not manually claimed certifications.</sub>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,postgres,git,github,docker,linux,vscode&perline=6" alt="Animated-style technology icon showcase" />
 </p>
@@ -221,7 +235,6 @@ I work at the intersection of **software engineering, data, and Artificial Intel
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=eDDie-05&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub achievement trophies" />
 </p>
 
 <p align="center">
