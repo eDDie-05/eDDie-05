@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/eDDie-05">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;Python+%7C+Django+%7C+JavaScript;Building+web+apps%2C+APIs+%26+useful+tools;Always+learning.+Always+building." alt="Animated typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Engineer+in+training;Python+%7C+Data+%7C+Machine+Learning;Building+useful+software+and+AI+solutions;Always+learning.+Always+building." alt="Animated typing introduction" />
   </a>
 </p>
 
@@ -27,9 +27,9 @@
 
 I'm **eDDie**, a  full stack developer from **Tanzania** focused on building practical, user-friendly software. I enjoy working across the frontend and backend, learning new tools, and turning ideas into working projects.
 
-- 💻 **Focus:** Full-stack  development and software engineering
+- 💻 **Focus:** Full-stack development, Artificial Intelligence, and Machine Learning
 - 🔭 **Building:** Web applications, database-backed systems, and useful developer tools
-- 🌱 **Currently growing:** Django, Java, Spring Boot, APIs, and modern frontend development
+- 🌱 **Currently growing:** Machine learning, deep learning, data science, LLMs, AI agents, and modern full-stack development
 - 🧠 **Interested in:** Clean code, databases, UI/UX, automation, and open source
 - 🤝 **Open to:** Learning, collaboration, and beginner-friendly open-source contributions
 - 🌍 **Based in:** Tanzania
@@ -108,6 +108,69 @@ I'm actively building my skills in **Full-Stack Development** and **Machine Lear
 </p>
 
 <sub>Tech badges represent tools used in projects or currently being explored; experience varies by technology.</sub>
+
+## 🧠 Artificial Intelligence & Machine Learning
+
+I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learning combines mathematical foundations, data preparation, classical machine learning, deep learning, and practical AI application development.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1100&color=22D3EE&center=true&vCenter=true&width=760&lines=Learning+the+math+behind+intelligent+systems;Turning+data+into+machine+learning+models;Exploring+deep+learning%2C+NLP+%26+AI+agents;Building+responsible%2C+useful+AI+applications" alt="Animated AI and machine learning learning focus" />
+</p>
+
+### Foundations & data science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Statistics-4051B5?style=for-the-badge" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Linear_Algebra-6A5ACD?style=for-the-badge" alt="Linear algebra" />
+  <img src="https://img.shields.io/badge/Calculus-8A2BE2?style=for-the-badge" alt="Calculus" />
+</p>
+
+- **Mathematics:** linear algebra, vectors and matrices, tensors, eigenvalues, SVD, calculus, gradients, Jacobians, Hessians, and probability.
+- **Data science:** data collection, data formats, data cleaning, exploratory analysis, visualization, preprocessing, and feature engineering.
+
+### Machine learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Supervised_Learning-2563EB?style=for-the-badge" alt="Supervised learning" />
+  <img src="https://img.shields.io/badge/Unsupervised_Learning-0F766E?style=for-the-badge" alt="Unsupervised learning" />
+  <img src="https://img.shields.io/badge/Model_Evaluation-7C3AED?style=for-the-badge" alt="Model evaluation" />
+</p>
+
+- **Algorithms & methods:** regression, classification, clustering, regularization (Ridge, Lasso, Elastic Net), model selection, and hyperparameter tuning.
+- **Evaluation:** train/test splits, cross-validation, validation strategies, metrics, and model diagnostics.
+- **Concepts:** supervised, unsupervised, and reinforcement learning; feature engineering; ensemble learning; and explainable AI (SHAP/LIME concepts).
+
+### Deep learning, NLP & modern AI
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch — learning" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow — exploring" />
+  <img src="https://img.shields.io/badge/NLP-0EA5E9?style=for-the-badge" alt="Natural language processing" />
+  <img src="https://img.shields.io/badge/Transformers-8B5CF6?style=for-the-badge" alt="Transformer architectures" />
+  <img src="https://img.shields.io/badge/LLMs-0F766E?style=for-the-badge" alt="Large language models" />
+  <img src="https://img.shields.io/badge/AI_Agents-1D4ED8?style=for-the-badge" alt="AI agents" />
+</p>
+
+- **Deep learning concepts:** neural networks, activation functions, backpropagation, optimizers, RNNs, LSTMs/GRUs, attention, and Transformers.
+- **NLP concepts:** text preprocessing, tokenization, bag-of-words, TF-IDF, embeddings, text classification, sentiment analysis, and named entity recognition.
+- **AI engineering concepts:** LLM applications, tool use, agent workflows, retrieval-augmented generation (RAG), and responsible AI design.
+
+### Engineering workflow & tools
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI — exploring" />
+</p>
+
+- **Workflow:** reproducible experiments, data/model pipelines, API concepts, deployment fundamentals, and model monitoring concepts.
+
+<sub>These are learning areas and developing skills, not a claim of professional mastery or production experience in every listed tool. I aim to demonstrate progress through working projects, documented experiments, and measurable results.</sub>
+
+---
 
 ## 🚀 Featured software projects
 
