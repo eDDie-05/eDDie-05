@@ -34,6 +34,18 @@ I'm **eDDie**, a  full stack developer from **Tanzania** focused on building pra
 - 🤝 **Open to:** Learning, collaboration, and beginner-friendly open-source contributions
 - 🌍 **Based in:** Tanzania
 
+
+## 🗺️ Learning Roadmaps
+
+I'm actively building my skills in **Full-Stack Development** and **Machine Learning**. These roadmaps help me track the concepts, tools, and technologies I'm learning along the way.
+
+<p align="center">
+  <a href="https://roadmap.sh/roadmaps">
+    <img src="https://roadmap.sh/card/wide/6af8109286c748d1a225c4c2?variant=dark&roadmaps=full-stack%2Cmachine-learning" alt="My Full Stack and Machine Learning roadmaps from roadmap.sh" width="100%" />
+  </a>
+</p>
+
+
 ## 🧰 Tech stack & tools
 
 ### Programming languages & web technologies
