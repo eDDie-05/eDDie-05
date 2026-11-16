@@ -1,18 +1,18 @@
 <!-- Animated profile header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/techno-profile-hero.svg" alt="Futuristic animated eDDie developer profile banner with circuit-board details" width="100%" />
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-profile-hero.svg" alt="Futuristic animated eDDie developer profile banner with circuit-board details" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/eDDie-05">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Engineer+in+training;Python+%7C+Data+%7C+Machine+Learning;Building+useful+software+and+AI+solutions;Always+learning.+Always+building." alt="Animated typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=34D399&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Engineer+in+training;Python+%7C+Data+%7C+Machine+Learning;Building+useful+software+and+AI+solutions;Always+learning.+Always+building." alt="Animated typing introduction" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/eDDie-05?tab=followers"><img src="https://img.shields.io/github/followers/eDDie-05?label=Followers&style=for-the-badge&logo=github&color=0F172A" alt="GitHub followers" /></a>
+  <a href="https://github.com/eDDie-05?tab=followers"><img src="https://img.shields.io/github/followers/eDDie-05?label=Followers&style=for-the-badge&logo=github&color=07110E" alt="GitHub followers" /></a>
   <a href="https://github.com/eDDie-05?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-0891B2?style=for-the-badge&logo=github" alt="Explore projects" /></a>
-  <img src="https://komarev.com/ghpvc/?username=eDDie-05&style=for-the-badge&color=1D4ED8" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=eDDie-05&style=for-the-badge&color=065F46" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=%3E+Building+the+future+one+commit+at+a+time...;%3E+Designing+clean+interfaces+and+useful+systems...;%3E+Learning.+Shipping.+Improving." alt="Animated developer status lines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=900&color=A3E635&center=true&vCenter=true&width=650&lines=%3E+Building+the+future+one+commit+at+a+time...;%3E+Designing+clean+interfaces+and+useful+systems...;%3E+Learning.+Shipping.+Improving." alt="Animated developer status lines" />
 </p>
 
 ## 👋 About me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-section-divider.svg" alt="Animated section divider" width="100%" />
 </p>
 
 I'm **eDDie**, a  full stack developer from **Tanzania** focused on building practical, user-friendly software. I enjoy working across the frontend and backend, learning new tools, and turning ideas into working projects.
@@ -42,7 +42,7 @@ I'm **eDDie**, a  full stack developer from **Tanzania** focused on building pra
 ## 🗺️ Learning Roadmaps
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-section-divider.svg" alt="Animated section divider" width="100%" />
 </p>
 
 I'm actively building my skills in **Full-Stack Development** and **Machine Learning**. These roadmaps help me track the concepts, tools, and technologies I'm learning along the way.
@@ -57,7 +57,7 @@ I'm actively building my skills in **Full-Stack Development** and **Machine Lear
 ## 🧰 Tech stack & tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-section-divider.svg" alt="Animated section divider" width="100%" />
 </p>
 
 ### Programming languages & web technologies
@@ -124,7 +124,7 @@ I'm actively building my skills in **Full-Stack Development** and **Machine Lear
 ## 🧠 Artificial Intelligence & Machine Learning
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-section-divider.svg" alt="Animated section divider" width="100%" />
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@ I'm actively building my skills in **Full-Stack Development** and **Machine Lear
 I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learning combines mathematical foundations, data preparation, classical machine learning, deep learning, and practical AI application development.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1100&color=22D3EE&center=true&vCenter=true&width=760&lines=Learning+the+math+behind+intelligent+systems;Turning+data+into+machine+learning+models;Exploring+deep+learning%2C+NLP+%26+AI+agents;Building+responsible%2C+useful+AI+applications" alt="Animated AI and machine learning learning focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1100&color=A3E635&center=true&vCenter=true&width=760&lines=Learning+the+math+behind+intelligent+systems;Turning+data+into+machine+learning+models;Exploring+deep+learning%2C+NLP+%26+AI+agents;Building+responsible%2C+useful+AI+applications" alt="Animated AI and machine learning learning focus" />
 </p>
 
 ### Foundations & data science
@@ -195,7 +195,7 @@ I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learn
 ## 🚀 Featured software projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-section-divider.svg" alt="Animated section divider" width="100%" />
 </p>
 
 | Project | Description | Technologies |
@@ -213,7 +213,7 @@ I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learn
 ## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-section-divider.svg" alt="Animated section divider" width="100%" />
 </p>
 
 <p align="center">
@@ -233,10 +233,10 @@ I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learn
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=eDDie-05&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub statistics" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=eDDie-05&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=chartreuse-dark&bg_color=0D1117&title_color=34D399&icon_color=A3E635&text_color=D1FAE5" alt="GitHub statistics" />
     </td>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eDDie-05&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used programming languages" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eDDie-05&layout=compact&langs_count=8&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=34D399&text_color=D1FAE5" alt="Most used programming languages" />
     </td>
   </tr>
 </table>
@@ -246,7 +246,7 @@ I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learn
 </p>
 
 <p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com?user=eDDie-05&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
+  <img width="72%" src="https://streak-stats.demolab.com?user=eDDie-05&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=34D399&fire=A3E635&currStreakLabel=34D399" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
@@ -254,7 +254,7 @@ I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learn
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eDDie-05&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=38BDF8&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eDDie-05&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=34D399&point=A3E635&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 </p>
 
 <p align="center">
@@ -263,7 +263,7 @@ I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learn
 
 <p align="center">
   <a href="https://wakatime.com/">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eDDie-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&custom_title=Weekly%20Coding%20Activity" alt="Weekly coding time and language statistics from WakaTime" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eDDie-05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=D1FAE5&custom_title=Weekly%20Coding%20Activity" alt="Weekly coding time and language statistics from WakaTime" />
   </a>
 </p>
 
@@ -274,7 +274,7 @@ I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learn
 ## 🌐 Connect with me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-section-divider.svg" alt="Animated section divider" width="100%" />
 </p>
 
 <p>
