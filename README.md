@@ -15,10 +15,19 @@
   <img src="https://komarev.com/ghpvc/?username=eDDie-05&style=for-the-badge&color=065F46" alt="Profile views" />
 </p>
 
-## 🏆 Developer Achievements
+## ✨ Profile Highlights & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eDDie-05&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="Live GitHub achievement trophies" width="100%" />
+  <a href="https://github.com/eDDie-05?tab=repositories"><img src="https://img.shields.io/badge/PORTFOLIO-Featured%20Projects-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Featured project portfolio" /></a>
+  <a href="https://roadmap.sh/roadmaps"><img src="https://img.shields.io/badge/ROADMAPS-Full--Stack%20%2B%20ML-047857?style=for-the-badge&logo=roadmap.sh&logoColor=white" alt="Full Stack and Machine Learning roadmaps" /></a>
+  <a href="https://github.com/eDDie-05?tab=repositories"><img src="https://img.shields.io/badge/ENGINEERING-AI%20%26%20ML-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="AI and machine learning focus" /></a>
+  <a href="https://github.com/eDDie-05?tab=repositories"><img src="https://img.shields.io/badge/ENGINEERING-Full--Stack-166534?style=for-the-badge&logo=react&logoColor=white" alt="Full-stack engineering focus" /></a>
+</p>
+
+### GitHub achievement trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eDDie-05&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub achievement trophies generated from public activity" width="100%" />
 </p>
 
 <p align="center">
