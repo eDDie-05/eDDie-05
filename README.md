@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/eDDie-05">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=34D399&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Engineer+in+training;Python+%7C+Data+%7C+Machine+Learning;Building+useful+software+and+AI+solutions;Always+learning.+Always+building." alt="Animated typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=34D399&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Engineer;Python+%7C+Data+%7C+Machine+Learning;Building+useful+software+and+AI+solutions;Always+learning.+Always+building." alt="Animated typing introduction" />
   </a>
 </p>
 
@@ -33,19 +33,19 @@ I'm **eDDie**, a  full stack developer from **Tanzania** focused on building pra
 
 - 💻 **Focus:** Full-stack development, Artificial Intelligence, and Machine Learning
 - 🔭 **Building:** Web applications, database-backed systems, and useful developer tools
-- 🌱 **Currently growing:** Machine learning, deep learning, data science, LLMs, AI agents, and modern full-stack development
+- 🧩 **Technical focus:** Machine learning, deep learning, data science, LLMs, AI agents, and modern full-stack engineering
 - 🧠 **Interested in:** Clean code, databases, UI/UX, automation, and open source
 - 🤝 **Open to:** Learning, collaboration, and beginner-friendly open-source contributions
 - 🌍 **Based in:** Tanzania
 
 
-## 🗺️ Learning Roadmaps
+## 🗺️ Engineering Roadmaps
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-section-divider.svg" alt="Animated section divider" width="100%" />
 </p>
 
-I'm actively building my skills in **Full-Stack Development** and **Machine Learning**. These roadmaps help me track the concepts, tools, and technologies I'm learning along the way.
+My development roadmap covers **Full-Stack Engineering** and **Machine Learning**, with a focus on strengthening architecture, implementation, and practical problem-solving.
 
 <p align="center">
   <a href="https://roadmap.sh/roadmaps">
@@ -54,7 +54,11 @@ I'm actively building my skills in **Full-Stack Development** and **Machine Lear
 </p>
 
 
-## 🧰 Tech stack & tools
+## 🧰 Technology stack & engineering tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-engineering-icons.svg" alt="Animated software, machine learning, data systems, neural network and deployment icons" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-section-divider.svg" alt="Animated section divider" width="100%" />
@@ -62,7 +66,7 @@ I'm actively building my skills in **Full-Stack Development** and **Machine Lear
 
 ### Programming languages & web technologies
 
-**Currently used / studied**
+**Core technologies**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -131,7 +135,7 @@ I'm actively building my skills in **Full-Stack Development** and **Machine Lear
   <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/ai-ml-neural-banner.svg" alt="Animated AI and Machine Learning neural network banner" width="100%" />
 </p>
 
-I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learning combines mathematical foundations, data preparation, classical machine learning, deep learning, and practical AI application development.
+I work at the intersection of **software engineering, data, and Artificial Intelligence**. My technical focus spans Python development, machine learning workflows, deep learning concepts, and building practical AI-powered applications.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1100&color=A3E635&center=true&vCenter=true&width=760&lines=Learning+the+math+behind+intelligent+systems;Turning+data+into+machine+learning+models;Exploring+deep+learning%2C+NLP+%26+AI+agents;Building+responsible%2C+useful+AI+applications" alt="Animated AI and machine learning learning focus" />
