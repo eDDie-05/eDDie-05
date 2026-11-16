@@ -1,22 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-<title id="title">eDDie developer terminal profile</title><desc id="desc">A clean dark terminal-inspired banner with emerald green command-line accents.</desc>
+<title id="title">eDDie developer terminal profile</title><desc id="desc">A clean dark terminal-inspired banner with violet and cyan cyber-terminal accents.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B0A"/><stop offset=".55" stop-color="#101916"/><stop offset="1" stop-color="#07110E"/></linearGradient>
- <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#34D399" stop-opacity="0"/><stop offset=".5" stop-color="#34D399"/><stop offset="1" stop-color="#A3E635" stop-opacity="0"/></linearGradient>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A18"/><stop offset=".55" stop-color="#11152B"/><stop offset="1" stop-color="#080B1A"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient>
  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#6EE7B7" stroke-opacity=".07"/></pattern>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#67E8F9" stroke-opacity=".07"/></pattern>
 </defs>
 <rect width="1200" height="330" rx="22" fill="url(#bg)"/><rect width="1200" height="330" rx="22" fill="url(#grid)"/>
-<rect x="24" y="22" width="1152" height="286" rx="16" fill="none" stroke="#34D399" stroke-opacity=".34"/>
-<rect x="24" y="22" width="1152" height="42" rx="16" fill="#15221D"/><path d="M24 48V64H1176V48" fill="#15221D"/>
-<circle cx="51" cy="43" r="6" fill="#FB7185"/><circle cx="73" cy="43" r="6" fill="#FBBF24"/><circle cx="95" cy="43" r="6" fill="#34D399"/>
-<text x="120" y="48" fill="#9CA3AF" font-family="monospace" font-size="13">eddie@workspace: ~/profile</text>
-<text x="74" y="128" fill="#6EE7B7" font-family="monospace" font-size="17">$ whoami</text>
+<rect x="24" y="22" width="1152" height="286" rx="16" fill="none" stroke="#22D3EE" stroke-opacity=".34"/>
+<rect x="24" y="22" width="1152" height="42" rx="16" fill="#171B36"/><path d="M24 48V64H1176V48" fill="#171B36"/>
+<circle cx="51" cy="43" r="6" fill="#FB7185"/><circle cx="73" cy="43" r="6" fill="#FBBF24"/><circle cx="95" cy="43" r="6" fill="#22D3EE"/>
+<text x="120" y="48" fill="#A5B4FC" font-family="monospace" font-size="13">eddie@workspace: ~/profile</text>
+<text x="74" y="128" fill="#67E8F9" font-family="monospace" font-size="17">$ whoami</text>
 <text x="74" y="190" fill="#F0FDF4" font-family="monospace" font-size="54" font-weight="700" letter-spacing="-2">eDDie_05</text>
-<text x="76" y="226" fill="#A7F3D0" font-family="monospace" font-size="19">FULL-STACK DEVELOPER <tspan fill="#4B806A">/</tspan> AI &amp; MACHINE LEARNING ENGINEER</text>
+<text x="76" y="226" fill="#C4B5FD" font-family="monospace" font-size="19">FULL-STACK DEVELOPER <tspan fill="#4B806A">/</tspan> AI &amp; MACHINE LEARNING ENGINEER</text>
 <path d="M76 251H690" stroke="url(#line)" stroke-width="2"/>
-<text x="76" y="282" fill="#9CA3AF" font-family="monospace" font-size="14">[ learn ]  [ build ]  [ experiment ]  [ ship ]</text>
-<g filter="url(#glow)"><circle cx="1055" cy="160" r="65" fill="none" stroke="#34D399" stroke-opacity=".35"/><circle cx="1055" cy="160" r="48" fill="none" stroke="#A3E635" stroke-opacity=".5" stroke-dasharray="5 9"/><path d="M1024 160l20 20 43-47" fill="none" stroke="#6EE7B7" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
-<text x="1055" y="252" fill="#6EE7B7" font-family="monospace" font-size="12" text-anchor="middle">SYSTEM ONLINE</text>
-<rect x="74" y="300" width="1052" height="2" fill="#34D399" opacity=".35"/>
+<text x="76" y="282" fill="#A5B4FC" font-family="monospace" font-size="14">[ learn ]  [ build ]  [ experiment ]  [ ship ]</text>
+<g filter="url(#glow)"><circle cx="1055" cy="160" r="65" fill="none" stroke="#22D3EE" stroke-opacity=".35"/><circle cx="1055" cy="160" r="48" fill="none" stroke="#A78BFA" stroke-opacity=".5" stroke-dasharray="5 9"/><path d="M1024 160l20 20 43-47" fill="none" stroke="#67E8F9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="1055" y="252" fill="#67E8F9" font-family="monospace" font-size="12" text-anchor="middle">SYSTEM ONLINE</text>
+<rect x="74" y="300" width="1052" height="2" fill="#22D3EE" opacity=".35"/>
+<g fill="none" stroke="#22D3EE" stroke-opacity=".22">
+<path d="M850 92h70l18 18h70M850 105h45l14 14h38M850 235h55l18-18h72"/>
+<circle cx="1008" cy="110" r="3" fill="#22D3EE"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="960" cy="217" r="3" fill="#A78BFA"><animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+</g>
 </svg>
