@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Futuristic animated developer profile banner">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#0b1734"/><stop offset="1" stop-color="#071b2b"/></linearGradient>
+ <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#2563eb"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#22d3ee" stop-opacity=".24"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#38bdf8" stroke-opacity=".10" stroke-width="1"/></pattern>
+ <filter id="blur"><feGaussianBlur stdDeviation="8"/></filter>
+ <filter id="neon"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<ellipse cx="600" cy="150" rx="430" ry="190" fill="url(#glow)"/>
+<g fill="none" stroke="#22d3ee" stroke-opacity=".52" stroke-width="1.5">
+ <path d="M0 54H125L155 84H285M0 244H170L202 212H320M1200 55H1090L1058 87H940M1200 245H1080L1048 213H930"/>
+ <path d="M70 0V34L90 54H190M1110 0V30L1090 50H1010M70 300V270L90 250H180M1120 300V270L1095 245H1015"/>
+ <path d="M0 150H110L132 128H220M1200 150H1090L1068 172H980"/>
+</g>
+<g fill="#67e8f9" filter="url(#neon)">
+ <circle cx="125" cy="54" r="3"/><circle cx="285" cy="84" r="3"/><circle cx="170" cy="244" r="3"/><circle cx="320" cy="212" r="3"/>
+ <circle cx="1090" cy="55" r="3"/><circle cx="940" cy="87" r="3"/><circle cx="1080" cy="245" r="3"/><circle cx="930" cy="213" r="3"/>
+</g>
+<g stroke="url(#edge)" stroke-width="2" fill="none" opacity=".9">
+ <path d="M360 42H840L870 72V228L840 258H360L330 228V72Z"/>
+ <path d="M382 62H818L850 94V206L818 238H382L350 206V94Z" stroke-opacity=".25"/>
+</g>
+<g fill="#38bdf8" opacity=".8" font-family="monospace" font-size="10">
+ <text x="30" y="28">SYS.NODE // ONLINE</text><text x="1000" y="28">BUILD: IN_PROGRESS</text>
+ <text x="30" y="282">[ PYTHON ] [ AI/ML ] [ FULL-STACK ]</text><text x="1000" y="282">v2026.11</text>
+</g>
+<g text-anchor="middle" font-family="monospace">
+ <text x="600" y="123" fill="#7dd3fc" font-size="13" letter-spacing="5">DEVELOPER PROFILE // TANZANIA</text>
+ <text x="600" y="174" fill="#ffffff" font-size="48" font-weight="700" letter-spacing="4">eDDie<span fill="#22d3ee">_05</span></text>
+ <text x="600" y="205" fill="#a5f3fc" font-size="15" letter-spacing="2">FULL-STACK  •  ARTIFICIAL INTELLIGENCE  •  MACHINE LEARNING</text>
+</g>
+<g stroke="#22d3ee" stroke-width="2" fill="none" filter="url(#neon)">
+ <path d="M600 15V42M600 258V285"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></path>
+ <path d="M330 150H350M850 150H870"><animate attributeName="opacity" values=".2;1;.2" dur="1.6s" repeatCount="indefinite"/></path>
+</g>
+<g fill="#22d3ee"><circle cx="350" cy="150" r="3"><animate attributeName="r" values="2;5;2" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="850" cy="150" r="3"><animate attributeName="r" values="2;5;2" dur="1.8s" repeatCount="indefinite"/></circle></g>
+<path d="M0 294H1200" stroke="url(#edge)" stroke-width="4" opacity=".9"/>
+</svg>
