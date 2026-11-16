@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="img" aria-label="Animated blue and cyan neural divider">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#1d4ed8" stop-opacity=".12"/>
+      <stop offset=".5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#1d4ed8" stop-opacity=".12"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <path d="M8 17 H1192" stroke="url(#g)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M8 17 H1192" stroke="#22d3ee" stroke-width="2" stroke-dasharray="24 34" stroke-linecap="round" opacity=".9">
+    <animate attributeName="stroke-dashoffset" from="0" to="-232" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <g fill="#67e8f9" filter="url(#glow)">
+    <circle cx="170" cy="17" r="3"><animate attributeName="r" values="2;4;2" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="17" r="4"><animate attributeName="r" values="3;5;3" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1030" cy="17" r="3"><animate attributeName="r" values="2;4;2" dur="2.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <circle r="4" cy="17" fill="#fff" filter="url(#glow)">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M8 0 H1184"/>
+  </circle>
+</svg>
