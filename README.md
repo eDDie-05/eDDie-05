@@ -25,6 +25,10 @@
 
 ## 👋 About me
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+</p>
+
 I'm **eDDie**, a  full stack developer from **Tanzania** focused on building practical, user-friendly software. I enjoy working across the frontend and backend, learning new tools, and turning ideas into working projects.
 
 - 💻 **Focus:** Full-stack development, Artificial Intelligence, and Machine Learning
@@ -37,6 +41,10 @@ I'm **eDDie**, a  full stack developer from **Tanzania** focused on building pra
 
 ## 🗺️ Learning Roadmaps
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+</p>
+
 I'm actively building my skills in **Full-Stack Development** and **Machine Learning**. These roadmaps help me track the concepts, tools, and technologies I'm learning along the way.
 
 <p align="center">
@@ -47,6 +55,10 @@ I'm actively building my skills in **Full-Stack Development** and **Machine Lear
 
 
 ## 🧰 Tech stack & tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+</p>
 
 ### Programming languages & web technologies
 
@@ -110,6 +122,10 @@ I'm actively building my skills in **Full-Stack Development** and **Machine Lear
 <sub>Tech badges represent tools used in projects or currently being explored; experience varies by technology.</sub>
 
 ## 🧠 Artificial Intelligence & Machine Learning
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/ai-ml-neural-banner.svg" alt="Animated AI and Machine Learning neural network banner" width="100%" />
@@ -178,6 +194,10 @@ I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learn
 
 ## 🚀 Featured software projects
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+</p>
+
 | Project | Description | Technologies |
 | --- | --- | --- |
 | [HRAS](https://github.com/eDDie-05/HRAS) | Front-end prototype for hospital registration and appointment workflows. | HTML, CSS |
@@ -191,6 +211,10 @@ I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learn
 **More builds:** [Browse all my repositories](https://github.com/eDDie-05?tab=repositories).
 
 ## 📊 GitHub Analytics & Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+</p>
 
 <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=eDDie-05&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub achievement trophies" />
@@ -248,6 +272,10 @@ I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learn
 </p>
 
 ## 🌐 Connect with me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/animated-section-divider.svg" alt="Animated section divider" width="100%" />
+</p>
 
 <p>
   <a href="https://tz.linkedin.com/in/eddie-edw-89a34131a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
