@@ -111,6 +111,10 @@ I'm actively building my skills in **Full-Stack Development** and **Machine Lear
 
 ## 🧠 Artificial Intelligence & Machine Learning
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/ai-ml-neural-banner.svg" alt="Animated AI and Machine Learning neural network banner" width="100%" />
+</p>
+
 I'm building a strong foundation toward becoming an **AI/ML Engineer**. My learning combines mathematical foundations, data preparation, classical machine learning, deep learning, and practical AI application development.
 
 <p align="center">
