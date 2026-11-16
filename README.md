@@ -18,7 +18,7 @@
 ## ✨ Profile Highlights & Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/profile-highlights.svg" alt="Animated violet-and-cyan cyber profile highlights: full-stack engineering, AI and machine learning, project building, and open source" width="100%" />
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/profile-highlights.svg" alt="Animated cyan cyber profile highlights: full-stack engineering, AI and machine learning, project building, and open source" width="100%" />
 </p>
 
 <p align="center">
