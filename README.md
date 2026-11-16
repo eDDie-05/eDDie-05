@@ -1,6 +1,6 @@
 <!-- Animated profile header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&height=210&color=0:0F172A,50:1D4ED8,100:06B6D4&text=eDDie&fontColor=FFFFFF&fontSize=38&fontAlignY=50" alt="Animated profile banner" />
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/techno-profile-hero.svg" alt="Futuristic animated eDDie developer profile banner with circuit-board details" width="100%" />
 </p>
 
 <p align="center">
