@@ -50,14 +50,80 @@
   <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-section-divider.svg" alt="Animated section divider" width="100%" />
 </p>
 
-I'm **eDDie**, a  full stack developer from **Tanzania** focused on building practical, user-friendly software. I enjoy working across the frontend and backend, learning new tools, and turning ideas into working projects.
+I'm **eDDie**, a full-stack developer and security-systems professional from **Tanzania**, focused on building practical software and deploying reliable physical-security technology. I enjoy working across the frontend and backend, learning new tools, and turning ideas into working projects.
 
-- 💻 **Focus:** Full-stack development, Artificial Intelligence, and Machine Learning
+- 💻 **Focus:** Full-stack development, Artificial Intelligence, Machine Learning, cybersecurity, and physical security systems
+- 🛡️ **Security systems:** CCTV installation, IP surveillance, access control, and Dahua security technologies
+- 🎓 **Certification:** Dahua-certified professional with DSS / VMS professional certification
 - 🔭 **Building:** Web applications, database-backed systems, and useful developer tools
 - 🧩 **Technical focus:** Machine learning, deep learning, data science, LLMs, AI agents, and modern full-stack engineering
 - 🧠 **Interested in:** Clean code, databases, UI/UX, automation, and open source
 - 🤝 **Open to:** Learning, collaboration, and beginner-friendly open-source contributions
 - 🌍 **Based in:** Tanzania
+
+
+
+## 🛡️ Physical Security & Surveillance Systems
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-section-divider.svg" alt="Animated section divider" width="100%" />
+</p>
+
+I also work with **professional physical security and electronic security systems**, combining hands-on installation with software, networking, and centralized security management.
+
+### 📹 CCTV & Video Surveillance
+- CCTV system installation, configuration, testing, and troubleshooting
+- IP camera deployment and network-based surveillance
+- Camera positioning, connectivity, recording, and monitoring
+- NVR/DVR setup and configuration
+- Surveillance system maintenance and fault diagnosis
+- Basic networking for IP surveillance environments
+
+### 🚪 Access Control & Entry Management
+- Access-control system installation and configuration
+- Door/access-point device setup and management
+- User, credential, and access-permission configuration
+- Integration of access-control devices with centralized security platforms
+- Troubleshooting connectivity and device-management issues
+
+### 🔐 Dahua Technology
+I have hands-on experience working with **Dahua Technology security solutions**, including CCTV/video surveillance, access control, and centralized security management.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dahua%20Technology-Physical%20Security-22D3EE?style=for-the-badge&logoColor=white" alt="Dahua Technology physical security" />
+  <img src="https://img.shields.io/badge/CCTV-Installation%20%26%20Configuration-22D3EE?style=for-the-badge&logoColor=white" alt="CCTV installation and configuration" />
+  <img src="https://img.shields.io/badge/Access%20Control-Installation%20%26%20Management-22D3EE?style=for-the-badge&logoColor=white" alt="Access control installation and management" />
+  <img src="https://img.shields.io/badge/DSS%20Professional-Certified-22D3EE?style=for-the-badge&logoColor=white" alt="Dahua DSS Professional certified" />
+</p>
+
+### 🎓 Dahua DSS Professional Certification
+
+**Dahua-certified professional in DSS / Video Management System (VMS) technology.**
+
+My DSS professional capability covers centralized security management and practical operation of the platform, including areas such as:
+
+- DSS deployment, installation, licensing, and upgrades
+- Device, user, and storage configuration
+- Video monitoring and event management
+- Access control and video-intercom configuration
+- Visitor and attendance management
+- Vehicle entrance/exit management
+- Maintenance and centralized security operations
+- Multi-server / distributed DSS concepts
+- Security-system integration and centralized management
+
+Dahua describes DSS Professional as a unified security-management platform integrating video surveillance, access management, vehicle entrance/exit, intelligent analysis, maintenance, attendance, and other security functions. urlDahua DSS Professionalhttps://www.dahuasecurity.com/products/software/on-premise-software/software-products/dss-professional
+
+> **Certification:** Dahua Technology — DSS / VMS Professional certification  
+> **Credential:** Dahua Certified Professional Engineer / Professional certification as applicable to the completed Dahua certification program.
+
+<p align="center">
+  <a href="https://www.dahuasecurity.com/products/software/on-premise-software/software-products/dss-professional">
+    <img src="https://img.shields.io/badge/Official-Dahua%20DSS%20Professional-22D3EE?style=for-the-badge&logoColor=white" alt="Official Dahua DSS Professional page" />
+  </a>
+</p>
+
+<sub>Certification wording is kept aligned with Dahua's official certification terminology; the exact certificate title and credential ID should always be taken from the certificate itself.</sub>
 
 
 ## 🗺️ Engineering Roadmaps
@@ -234,6 +300,28 @@ I work at the intersection of **software engineering, data, and Artificial Intel
 | [Desktop Chatbot](https://github.com/eDDie-05/AI-Chatbot) | Rule-based desktop chatbot. | Python, Tkinter |
 
 **More builds:** [Browse all my repositories](https://github.com/eDDie-05?tab=repositories).
+
+
+## ⚡ Live GitHub Profile
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=GitHub+profile+metrics+update+automatically;Repositories+%7C+Followers+%7C+Stars+%7C+Languages;Building+software+%2B+security+systems+%2B+AI" alt="Animated live GitHub profile status" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/eDDie-05/eDDie-05?style=for-the-badge&label=Profile%20README&logo=github" alt="Profile README repository size" />
+  <img src="https://img.shields.io/github/last-commit/eDDie-05/eDDie-05?style=for-the-badge&label=Last%20Profile%20Update&logo=github" alt="Last profile repository commit" />
+  <img src="https://img.shields.io/github/commit-activity/y/eDDie-05/eDDie-05?style=for-the-badge&label=Yearly%20Commits&logo=github" alt="Yearly commits" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/eDDie-05?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=eDDie-05&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight&bg_color=080B1A&title_color=22D3EE&icon_color=22D3EE&text_color=E0E7FF" alt="Automatically updated GitHub statistics" />
+  </a>
+</p>
+
+<sub>GitHub-hosted and public-profile metrics above are generated from the account and update as GitHub activity changes. Skills and certifications are intentionally kept as human-authored claims rather than inferred automatically from repository activity.</sub>
+
 
 ## 📊 GitHub Analytics & Activity
 
