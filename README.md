@@ -44,6 +44,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=%3E+Building+the+future+one+commit+at+a+time...;%3E+Designing+clean+interfaces+and+useful+systems...;%3E+Learning.+Shipping.+Improving." alt="Animated developer status lines" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/software-ai-security-bridge.svg" alt="Animated bridge connecting software engineering, AI, and physical security" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Software+Engineering+%E2%86%92+AI+%26+Machine+Learning+%E2%86%92+Security+Systems;Coding+the+platforms.+Securing+the+environment.+Connecting+the+two.;CCTV+%7C+Access+Control+%7C+Dahua+DSS+%7C+Cloud+%7C+Databases+%7C+AI" alt="Animated technology integration message" />
+</p>
+
 ## 👋 About me
 
 <p align="center">
@@ -67,6 +75,10 @@ I'm **eDDie**, a full-stack developer and security-systems professional from **T
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eDDie-05/eDDie-05/main/assets/terminal-section-divider.svg" alt="Animated section divider" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=850&color=22D3EE&center=true&vCenter=true&width=760&lines=Observe+%E2%80%A2+Control+%E2%80%A2+Protect+%E2%80%A2+Automate;CCTV+%2B+Access+Control+%2B+Dahua+DSS;Physical+security+meets+software+engineering" alt="Animated physical security skills banner" />
 </p>
 
 I also work with **professional physical security and electronic security systems**, combining hands-on installation with software, networking, and centralized security management.
@@ -210,7 +222,27 @@ My development roadmap covers **Full-Stack Engineering** and **Machine Learning*
   <img src="https://img.shields.io/badge/VS_Code-22D3EE?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
 </p>
 
-<sub>Tech badges represent tools used in projects or currently being explored; experience varies by technology.</sub>
+
+**Physical security & surveillance technologies**
+
+<p>
+  <img src="https://img.shields.io/badge/Dahua%20Technology-22D3EE?style=for-the-badge&logoColor=white" alt="Dahua Technology" />
+  <img src="https://img.shields.io/badge/CCTV-Installation%20%26%20Configuration-22D3EE?style=for-the-badge&logoColor=white" alt="CCTV installation and configuration" />
+  <img src="https://img.shields.io/badge/IP%20Surveillance-22D3EE?style=for-the-badge&logoColor=white" alt="IP surveillance" />
+  <img src="https://img.shields.io/badge/Access%20Control-22D3EE?style=for-the-badge&logoColor=white" alt="Access control" />
+  <img src="https://img.shields.io/badge/DSS%20Professional-Certified-22D3EE?style=for-the-badge&logoColor=white" alt="DSS Professional certified" />
+</p>
+
+<sub>Tech badges represent tools used in projects or currently being explored; experience varies by technology. Physical-security badges reflect hands-on security-system work and the Dahua DSS professional certification described below.</sub>
+
+
+### 🔗 How the disciplines connect
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=800&color=22D3EE&center=true&vCenter=true&width=820&lines=Frontend+%2B+Backend+%2B+Databases;AI+%2B+Automation+%2B+Intelligent+Systems;Networking+%2B+CCTV+%2B+Access+Control;Dahua+DSS+%2B+Centralized+Security+Management" alt="Animated cross-discipline skill stack" />
+</p>
+
+I combine the software and AI skills in this profile with practical **physical-security deployment**, creating a broader technology profile that spans applications, data, automation, networking, surveillance, access control, and centralized security management.
 
 ## 🧠 Artificial Intelligence & Machine Learning
 
